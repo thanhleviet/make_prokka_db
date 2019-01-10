@@ -42,6 +42,8 @@ optional arguments:
 
 ## Dependencies
 
+The script is written in python3
+
 Before running the script, please make sure you have the following dependencies: cd-hit, blast, ncbi-genome-download, biopython
 
 External dependencies can be installed from bioconda
