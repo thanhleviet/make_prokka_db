@@ -42,7 +42,7 @@ optional arguments:
 
 ## Dependencies
 
-The script is written in python3
+The script requires python 3.7
 
 Before running the script, please make sure you have the following dependencies: cd-hit, blast, ncbi-genome-download, biopython
 
@@ -52,7 +52,7 @@ External dependencies can be installed from bioconda
 conda install -c conda-forge -c bioconda cd-hit blast
 ```
 
-Python dependecies can be install via pip
+Python dependecies can be installed via pip
 
 ```bash
 pip install ncbi-genome-download==0.2.8 biopython
